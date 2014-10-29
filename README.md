@@ -4,6 +4,6 @@
 
 ## Contributors
 
-* Portuguese (Brazi): Josué Ferreira
+* Portuguese (Brazil): Josué Ferreira
 
 [1]: http://www.wizardslizard.com/
